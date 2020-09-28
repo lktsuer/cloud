@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      name: cloud-eureka-7002
+      uri: http://localhost:6001
+      label: master

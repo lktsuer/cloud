@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      name: cloud-zuul-9527
+      uri: http://localhost:6001
+      label: master
